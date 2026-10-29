@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 独自ドメイン決定後、サイトマップを作成したら次の行を有効にしてください
+# Sitemap: https://www.example.co.jp/sitemap.xml

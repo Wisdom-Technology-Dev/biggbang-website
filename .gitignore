@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs / temp
+*.log
+*.tmp
+tmp/
+temp/
+
+# Dependencies / build tools (this site does not need them)
+node_modules/
+
+# Secrets — never commit
+.env
+.env.*
+*.pem
+*.key
+
+# Design source & archives (keep outside the public repo)
+*.psd
+*.ai
+*.sketch
+*.fig
+*.zip
+assets-src/
